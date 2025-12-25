@@ -1,5 +1,5 @@
 # Appian AI Knowledge Assistant 🛡️
-**Problem Statement 2: Intelligent Knowledge Retrieval**
+**Problem Statement 2: Intelligent knowledge retrieval for complex case management**
 
 ### 🚀 Overview
 A "Just-in-Time" AI Copilot that analyzes active insurance case data to proactively push relevant policy clauses and regional SOPs to agents.
